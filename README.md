@@ -69,5 +69,5 @@ export NODE_ENV=dev && node ./node_modules/gulp/bin/gulp.js s3:empty
 
 ## Todo
 
-- Make the lib addition more intuitive
+-  ~~Make the lib addition more intuitive~~
 - Add testing
