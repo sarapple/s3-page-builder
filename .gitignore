@@ -13,8 +13,8 @@ node_modules/*
 
 # Build #
 ############
-build/app
-build/app/*
+build
+build/*
 
 # OS generated files #
 ######################
