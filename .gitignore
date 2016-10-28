@@ -1,0 +1,27 @@
+# Config #
+############
+*.json
+!example.json
+!sources.json
+
+# Packages #
+############
+!package.json
+!bower.json
+node_modules
+node_modules/*
+
+# Build #
+############
+build/app
+build/app/*
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

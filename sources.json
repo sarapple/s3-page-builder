@@ -1,0 +1,9 @@
+{
+  "libs": [
+    "./node_modules/angular/angular.js",
+    "./node_modules/normalize-css/normalize.css"
+  ],
+  "customJs": [
+    "./src/app/scripts/script.js"
+  ]
+}
